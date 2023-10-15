@@ -69,3 +69,4 @@ plt.show()
 
 
 ## Result:
+Thus, Kalman filter to predict the position and velocity of an object is implemented successfully.
